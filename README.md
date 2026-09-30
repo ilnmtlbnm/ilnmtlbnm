@@ -8,7 +8,7 @@ Rust, WASM and WebGPU. Previously AI Tech Lead at Scaleway (inference
 infrastructure) and co-founder & CTO of Sense AI (physics-informed sensing).
 Before that, experimental physics.
 
-### Now : [Idle Intelligence](https://huggingface.co/idle-intelligence)
+### Now : [Idle Intelligence](https://idleintelligence.org) · models and data on [Hugging Face](https://huggingface.co/idle-intelligence)
 Independent work: time-series forecasting and browser-native inference for
 speech, TTS and LLMs, all client-side.
 
