@@ -11,10 +11,10 @@ Previously AI Tech Lead at Scaleway (inference infrastructure) and co-founder & 
 Independent work: time-series forecasting and browser-native inference for
 speech, TTS and LLMs, all client-side.
 
+- **[lean](https://github.com/idle-intelligence/llm-web)** : my LLM inference engine, one Rust + WGSL codebase that runs natively and in the browser, on WebGPU, CPU threads or a single thread depending on the device; Qwen2, Qwen3 and Llama models, token-exact against HF transformers
 - **[t0-web](https://github.com/idle-intelligence/t0-web)** : from-scratch browser inference engine for time-series foundation models (Rust + WebGPU); matched a published forecasting benchmark at roughly a seventh of the size
 - **[stt-web](https://github.com/idle-intelligence/stt-web)** : real-time speech-to-text, 100% in the browser (Rust + WASM + WebGPU)
 - **[tts-web](https://github.com/idle-intelligence/tts-web)** : text-to-speech, client-side
-- **[llm-web](https://github.com/idle-intelligence/llm-web)** : in-browser LLM inference, no server
 - **[ridgeline / astres](https://trucs.ai/blog/about-astres)** : WebGPU 3-D visualization of planetary data
   
 ### Links
