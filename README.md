@@ -2,13 +2,12 @@
 
 **Physicist (PhD, ESPCI Paris) building ML systems at scale.**
 
-I architect voice and LLM cloud inference at Sonos, and build hands-on across
-the stack: foundation-model inference, quantization, and browser-native ML in
-Rust, WASM and WebGPU. Previously AI Tech Lead at Scaleway (inference
-infrastructure) and co-founder & CTO of Sense AI (physics-informed sensing).
-Before that, experimental physics.
+I build inference engines from scratch through Idle Intelligence, my independent lab: LLM and speech models in Rust, quantized, running entirely in the browser on WebGPU and WebAssembly.
 
-### Now : [Idle Intelligence](https://idleintelligence.org) · models and data on [Hugging Face](https://huggingface.co/idle-intelligence)
+By day, I'm the architect of Sonos AI: real-time voice and LLM inference, from the device to multi-region cloud.  
+Previously AI Tech Lead at Scaleway (inference infrastructure) and co-founder & CTO of Sense AI (physics-informed sensing). 
+
+#### [Idle Intelligence](https://idleintelligence.org) · models and data on [Hugging Face](https://huggingface.co/idle-intelligence)
 Independent work: time-series forecasting and browser-native inference for
 speech, TTS and LLMs, all client-side.
 
